@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Page-1" id="ID_I1ZoUhO9g9dRqqT3x">
-    <mxGraphModel>
+    <mxGraphModel dx="936" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6XB5qZQnSHljyJ1tObMj-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;Git-hub check2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="450" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
